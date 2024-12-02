@@ -3,7 +3,7 @@ import { createApp } from "./config.js";
 const app = createApp({
   user: "autumn_star_7622",
   host: "168.119.168.41",
-  database: "demo",
+  database: "test",
   password: "uaioysdfjoysfdf",
   port: 18324,
 });
